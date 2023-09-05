@@ -7,4 +7,4 @@
 - Bayesian
 - Elastic
 
-Before appling the ml algorithms we clean and preprocess the data.
+Before appling the ml algorithms we clean and preprocess the data. After appling the ml algorithms we find the best one.
